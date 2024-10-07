@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 81b0b1f11c3c1fc165cdc42a6aba64a74460e2df Gerard Dijkstra <dijkstra1964@gmail.com> 1728336867 +0200	commit (initial): Remove nested git repository from frontend
+81b0b1f11c3c1fc165cdc42a6aba64a74460e2df 804be52b5aea4b40683e4f96760419d5f630db75 Gerard Dijkstra <dijkstra1964@gmail.com> 1728336907 +0200	commit: Fix frontend directory tracking
